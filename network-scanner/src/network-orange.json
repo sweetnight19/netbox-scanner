@@ -1,0 +1,10 @@
+{
+    "example": {
+        "name": "network",
+        "description": "storage network",
+        "type": "backup",
+        "network": "192.168.1.0",
+        "machine": "Example",
+        "ip": "192.168.1.1"
+    }
+}

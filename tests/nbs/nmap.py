@@ -1,15 +1,3 @@
-#!/usr/bin/env python3
-
-##################################################
-# Author:  José Lopes (Iopes)
-# Copyright: Copyright 2022, Netbox-Scanner
-# License: MIT
-# Version: 1.0.0
-# Maintainer: David Marquet
-# Email: david.marquet@salle.url.edu
-# Status: Development
-##################################################
-
 import os
 import xml.etree.ElementTree as ET
 
